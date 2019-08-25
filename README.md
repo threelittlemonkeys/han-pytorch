@@ -10,8 +10,16 @@ Supported features:
 
 Training data should be formatted as below:
 ```
-sentence \t label
-sentence \t label
+sentence
+...
+sentence
+label
+
+sentence
+...
+sentence
+label
+
 ...
 ```
 
