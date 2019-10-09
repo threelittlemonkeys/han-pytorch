@@ -3,8 +3,8 @@
 A minimal PyTorch implementation of Hierarchical Attention Networks (HANs) for document classification.
 
 Supported features:
-- Lookup, CNNs, RNNs and/or self-attentive encoding in the embedding layer
 - Mini-batch training with CUDA
+- Lookup, CNNs, RNNs and/or self-attention in the embedding layer
 
 ## Usage
 
